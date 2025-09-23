@@ -77,7 +77,7 @@
 | [**Kmesh**](https://github.com/kmesh-net) | [Kmesh](https://github.com/kmesh-net/kmesh) | PR (Merged) | [#1498](https://github.com/kmesh-net/kmesh/pull/1498) |
 | [**SW360**](https://github.com/eclipse-sw360) | [Website](https://github.com/eclipse-sw360/sw360.website) | PR (Merged) | [#164](https://github.com/eclipse-sw360/sw360.website/pull/164) |
 | [**SW360**](https://github.com/eclipse-sw360) | [Website](https://github.com/eclipse-sw360/sw360.website) | PR (Merged) | [#153](https://github.com/eclipse-sw360/sw360.website/pull/153) |
-| [**KubeArmor**](https://github.com/kubearmor) | [Website](https://github.com/kubearmor/kubearmor.io) | PR (Open) | [#53](https://github.com/kubearmor/kubearmor.io/pull/53) |
+| [**KubeArmor**](https://github.com/kubearmor) | [Website](https://github.com/kubearmor/kubearmor.io) | PR (Merged) | [#53](https://github.com/kubearmor/kubearmor.io/pull/53) |
 | [**cilium**](https://github.com/cilium) | [Website](https://github.com/cilium/cilium.io) | PR (Merged) | [#772](https://github.com/cilium/cilium.io/pull/772) |
 | [**ArgoFlows**](https://github.com/gauravgahlot/argoflows) | [ArgoFlows](https://github.com/gauravgahlot/argoflows/) | PR (Merged) | [#37](https://github.com/gauravgahlot/argoflows/pull/37) |
 | [**Goverment Complaint App**](https://github.com/jaiakash/complaint_app) | [Goverment Complaint App](https://github.com/jaiakash/complaint_app) | PR (Merged) | [#20](https://github.com/jaiakash/complaint_app/pull/20) |
