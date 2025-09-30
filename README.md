@@ -26,7 +26,7 @@
 <h3>Experience</h3>
  
 - 🌐 Open Source Promotion Plan'2025 @ [Kmesh](https://github.com/kmesh-net) (CNCF SandBox Project)
-- ₿  TimeChain Summer of Code'2024 @ [Timechain Labs](https://github.com/timechainlabs)
+- ₿  TimeChain Summer of Code'2024 @ [Timechain Labs](https://tsoc.dev/)
 </div>
 
 <div>
