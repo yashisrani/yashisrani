@@ -27,6 +27,7 @@
 
 - 👥 LFX Mentorship 2026 (Term-2) Mentor @ [Kmesh](https://github.com/kmesh-net) (CNCF SandBox Project)
 - 🌐 Open Source Promotion Plan'2025 @ [Kmesh](https://github.com/kmesh-net) (CNCF SandBox Project)
+- 👨🏻‍🔧 Maintainer - [Kmesh](https://github.com/kmesh-net) (CNCF SandBox Project)
 - ₿  TimeChain Summer of Code'2024 @ [Timechain Labs](https://tsoc.dev/)
 </div>
 
