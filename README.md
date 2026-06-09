@@ -64,38 +64,7 @@
 
 <hr/>
 
-## 🚀 My Open Source Contributions 
-(_This file is regularly updated as I contribute to more projects!_)
-| Organization Name | Repository | Type | Link |
-|--------------|-------------|--------------|------------|
-| [**Kmesh**](https://github.com/kmesh-net) | [Website](https://github.com/kmesh-net/website) | PR (Merged) | [#231](https://github.com/kmesh-net/website/pull/231) |
-| [**Kmesh**](https://github.com/kmesh-net) | [Website](https://github.com/kmesh-net/website) | PR (Merged) | [#234](https://github.com/kmesh-net/website/pull/234) |
-| [**Kmesh**](https://github.com/kmesh-net) | [Website](https://github.com/kmesh-net/website) | PR (Merged) | [#208](https://github.com/kmesh-net/website/pull/208) |
-| [**Kmesh**](https://github.com/kmesh-net) | [Website](https://github.com/kmesh-net/website) | PR (Merged) | [#221](https://github.com/kmesh-net/website/pull/221) |
-| [**Kmesh**](https://github.com/kmesh-net) | [Website](https://github.com/kmesh-net/website) | PR (Merged) | [#207](https://github.com/kmesh-net/website/pull/207) |
-| [**Kmesh**](https://github.com/kmesh-net) | [Website](https://github.com/Kmesh-net/website) | PR (Merged) | [#232](https://github.com/kmesh-net/website/pull/232) |
-| [**Kmesh**](https://github.com/kmesh-net) | [Website](https://github.com/kmesh-net/website) | PR (Merged) | [#235](https://github.com/kmesh-net/website/pull/235) |
-| [**Kmesh**](https://github.com/Kmesh-net) | [Kmesh](https://github.com/kmesh-net/kmesh) | PR (Merged) | [#1484](https://github.com/kmesh-net/kmesh/pull/1484) |
-| [**Kmesh**](https://github.com/kmesh-net) | [Kmesh](https://github.com/kmesh-net/kmesh) | PR (Merged) | [#1498](https://github.com/kmesh-net/kmesh/pull/1498) |
-| [**SW360**](https://github.com/eclipse-sw360) | [Website](https://github.com/eclipse-sw360/sw360.website) | PR (Merged) | [#164](https://github.com/eclipse-sw360/sw360.website/pull/164) |
-| [**SW360**](https://github.com/eclipse-sw360) | [Website](https://github.com/eclipse-sw360/sw360.website) | PR (Merged) | [#153](https://github.com/eclipse-sw360/sw360.website/pull/153) |
-| [**KubeArmor**](https://github.com/kubearmor) | [Website](https://github.com/kubearmor/kubearmor.io) | PR (Merged) | [#53](https://github.com/kubearmor/kubearmor.io/pull/53) |
-| [**cilium**](https://github.com/cilium) | [Website](https://github.com/cilium/cilium.io) | PR (Merged) | [#772](https://github.com/cilium/cilium.io/pull/772) |
-| [**ArgoFlows**](https://github.com/gauravgahlot/argoflows) | [ArgoFlows](https://github.com/gauravgahlot/argoflows/) | PR (Merged) | [#37](https://github.com/gauravgahlot/argoflows/pull/37) |
-| [**Goverment Complaint App**](https://github.com/jaiakash/complaint_app) | [Goverment Complaint App](https://github.com/jaiakash/complaint_app) | PR (Merged) | [#20](https://github.com/jaiakash/complaint_app/pull/20) |
-| [**Kyverno**](https://github.com/kyverno) | [Website](https://github.com/kyverno/website) | PR (Merged) | [#1612](https://github.com/kyverno/website/pull/1612) |
-| [**Buildpacks**](https://github.com/buildpacks) | [Pack](https://github.com/buildpacks/pack) | PR (Merged) | [#2354](https://github.com/buildpacks/pack/pull/2354) |
-| [**Go-GORM**](https://github.com/go-gorm) | [Postgres](https://github.com/go-gorm/postgres) | PR (Merged) | [#301](https://github.com/go-gorm/postgres/pull/301) |
-| [**ArgoProj**](https://github.com/argoproj) | [Argocd-Example-Apps](https://github.com/argoproj/argocd-example-apps) | PR (Open) | [#352](https://github.com/argoproj/argocd-example-apps/pull/352) |
-| [**Kubernetes Sigs**](https://github.com/kubernetes-sigs) | [Kro](https://github.com/kubernetes-sigs/kro/pull/344) | PR (Merged) | [#344](https://github.com/kubernetes-sigs/kro/pull/344) |
-| [**Zopen Community**](https://github.com/zopencommunity) | [Meta](https://github.com/zopencommunity/meta) | PR (Merged) | [#1094](https://github.com/zopencommunity/meta/pull/1094) |
-| [**TensorFlow**](https://github.com/tensorflow) | [Docs](https://github.com/tensorflow/docs) | PR (Open) | [#2354](https://github.com/tensorflow/docs/pull/2354) |
-| [**Fordevio**](https://github.com/fordevio) | [Wharf](https://github.com/fordevio/wharf) | PR (Merged) | [#102](https://github.com/fordevio/wharf/pull/102) |
-| [**Fordevio**](https://github.com/fordevio) | [Wharf](https://github.com/fordevio/wharf) | PR (Merged) | [#94](https://github.com/fordevio/wharf/pull/94) |
-| [**Fordevio**](https://github.com/fordevio) | [Wharf](https://github.com/fordevio/wharf) | PR (Merged) | [#58](https://github.com/fordevio/wharf/pull/58) |
-| [**Fordevio**](https://github.com/fordevio) | [Wharf](https://github.com/fordevio/wharf) | PR (Merged) | [#34](https://github.com/fordevio/wharf/pull/34) |
 
----
 
 <!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yashisrani&theme=radical&show_icons=true"> 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashisrani&layout=compact&theme=radical">
