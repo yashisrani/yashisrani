@@ -31,15 +31,6 @@
 - ₿  TimeChain Summer of Code'2024 @ [Timechain Labs](https://tsoc.dev/)
 </div>
 
-<div>
-  <h3>🧠 What I'm Wired For</h3>
-  <ul>
-    <li>👨🏽‍💻 Frontend UI, Backend Architectures & Cloud Infra</li>
-    <li>🧠⚡ Shoot up on <a href="https://www.linkedin.com/in/yash-israni-8a114a24b/">Linkedin</a></li>
-    <li>📫 Drop a line at <a href ="mailto:imailyash57@gmail.com"> imailyash57@gmail.com </li>
-  </ul>
-</div>
-
  
 
 
