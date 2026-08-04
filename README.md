@@ -1,26 +1,13 @@
 <h1 align="center">Hey, I am Yash Israni 👋 </h1>
 
 <div align="center">
-  <p>
-    <a href="https://x.com/yashh_twt">
-      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
-    </a>
-    <a href="https://www.linkedin.com/in/yash-israni-8a114a24b/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="https://yashisrani.hashnode.dev">
-      <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"/>
-    </a>
-<!--     <a href="https://ritankarsaha-portfolio.netlify.app/">
-      <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-    </a> -->
-    <a href="mailto:imailyash57@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-    </a>
-  </p>
-<!--   <img align="center" src="https://komarev.com/ghpvc/?username=yashisrani&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile Views"> -->
-</div>
 
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/yashh_twt)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-israni-8a114a24b/)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=flat&logo=hashnode&logoColor=white)](https://yashisrani.hashnode.dev)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:imailyash57@gmail.com)
+
+</div>
 
  <div>
 <h3>Experience</h3>
